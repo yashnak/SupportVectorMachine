@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by renuka on 11/27/17.
+ * Created by yashna on 11/27/17.
  */
 public class q1 {
     public static void main(String[] args) throws IOException {
